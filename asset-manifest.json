@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-sapper/static/css/main.d7733ce0.css",
+    "main.js": "/react-sapper/static/js/main.7fcf30b5.js",
+    "static/js/787.22edae46.chunk.js": "/react-sapper/static/js/787.22edae46.chunk.js",
+    "static/media/explosion.gif": "/react-sapper/static/media/explosion.45e2838e982b084f6f17.gif",
+    "static/media/bomb.svg": "/react-sapper/static/media/bomb.307667a5dc8589011d32c68096f5e231.svg",
+    "static/media/jewel.svg": "/react-sapper/static/media/jewel.175b0f75cd839c416f6a1b902012d771.svg",
+    "index.html": "/react-sapper/index.html",
+    "main.d7733ce0.css.map": "/react-sapper/static/css/main.d7733ce0.css.map",
+    "main.7fcf30b5.js.map": "/react-sapper/static/js/main.7fcf30b5.js.map",
+    "787.22edae46.chunk.js.map": "/react-sapper/static/js/787.22edae46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7733ce0.css",
+    "static/js/main.7fcf30b5.js"
+  ]
+}
